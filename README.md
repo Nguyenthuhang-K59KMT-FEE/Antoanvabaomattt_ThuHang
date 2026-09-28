@@ -31,8 +31,8 @@ cd <ten-repo>
 
 python my_aes.py                 # in từng bước mã hoá 1 khối AES-128 (ví dụ FIPS-197)
 python my_rsa.py                 # ví dụ RSA với số nhỏ p=61, q=53
-python demo_rsa_models.py        # 3 mô hình RSA
-python demo_hybrid.py            # mã hoá lai; hoặc: python demo_hybrid.py file.pdf
+python rsa_models.py        # 3 mô hình RSA
+python hybrid.py            # mã hoá lai; hoặc: python demo_hybrid.py file.pdf
 python benchmark.py              # so sánh tốc độ (pip install cryptography để có thêm phần B)
 python -m unittest -v test_all   # chạy kiểm thử
 ```
