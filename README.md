@@ -4,7 +4,7 @@
 
 **Lớp**: K59.KMT.K01
 
-**MSSV**:K2354801060
+**MSSV**:K235480106088
 
 # Tìm hiểu DES, AES, RSA và mã hoá lai RSA + AES
 
