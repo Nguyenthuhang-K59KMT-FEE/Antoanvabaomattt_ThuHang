@@ -1,0 +1,2 @@
+# Tuỳ chọn: chỉ cần cho benchmark.py phần B (so sánh với OpenSSL)
+cryptography>=41
